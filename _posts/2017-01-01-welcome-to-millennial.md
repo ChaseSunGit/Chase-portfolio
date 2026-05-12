@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
+title: "NRC Phantom II - an ultra-light weight, high-precision greenhouse gas sensor"
+author: "Chase Sun"
+categories: Embedded
+tags: [Embedded,CAD]
 image: cuba-1.jpg
 ---
 

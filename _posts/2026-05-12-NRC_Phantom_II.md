@@ -14,7 +14,7 @@ Methane is a highly potent greenhouse gas that has been historically poorly meas
 
 
 ## Physical Assembly
-![PhantomII Physical package](PhantomII/NRC_Physical.jpg)
+![PhantomII Physical package](/assets/img/PhantomII/NRC_Physical.jpg)
 
 ## Significant Upgrade From Previous Desigm
 

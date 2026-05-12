@@ -2,8 +2,8 @@
 layout: post
 title: "NRC Phantom II - an ultra-light weight, high-precision greenhouse gas sensor"
 author: "Chase Sun"
-categories: Embedded
-tags: [Embedded,CAD]
+categories: Electronics-Optics
+tags: [Embedded,CAD,Optics,Mechatronics,Sensing]
 image: NRC_Teaser.jpg
 ---
 

@@ -27,3 +27,5 @@ menu:
 pagination:
   next_page: 'Previous project'
   previous_page: 'Next project'
+
+related_posts: 'Related projects'

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Text Formatting"
-author: "Paul Le"
-categories: sample
-tags: [sample]
+title: "NRC Chippy - an ultrasonic wind sensor"
+author: "Chase Sun"
+categories: Mechatronics
+tags: [Mechatronics]
 image: arctic-1.jpg
 ---
 

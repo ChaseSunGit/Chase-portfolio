@@ -7,9 +7,9 @@ disqus:
 google-ID: ''
 
 menu:
-- {name: 'Electronics & Optics', url: 'Electronics-Optics'}
-- {name: 'Wearable robotics',    url: 'Wearable-robotics'}
-- {name: 'CAD-CAE',              url: 'sample-posts'}
+- {name: 'Electronics & Optics', url: 'electronics-optics'}
+- {name: 'Wearable robotics',    url: 'wearable-robotics'}
+- {name: 'CAD & CAE',            url: 'cad-cae'}
 - {name: 'About',                url: 'About'}
 - {name: 'Contact',              url: 'Contact'}
 

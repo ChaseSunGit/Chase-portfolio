@@ -2,8 +2,8 @@
 layout: post
 title: "Chippy - an ultrasonic wind sensor"
 author: "Chase Sun"
-categories: Electronics-Optics
-tags: [Mechatronics,Embedded,Sensing]
+categories: electronics-optics
+tags: [mechatronics,embedded,sensing]
 image: Wind_Teaser.jpg
 ---
 

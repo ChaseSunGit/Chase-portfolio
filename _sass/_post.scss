@@ -3,6 +3,11 @@
   display: block;
   margin: 10px auto 10px;
 }
+.post-content img {
+  margin: 0 auto;
+  max-width: 100%; /* This allows it to fill the 1000px width */
+  height: auto;
+}
 .post-date {
   display: block;
   margin-bottom: 1rem;

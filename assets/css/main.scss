@@ -28,6 +28,7 @@ $rss-color: #ff6600;
 
 .img-wrap-left {
   float: left;
+  display: inline !important;
   margin-right: 25px;
   margin-bottom: 15px;
   max-width: 60%;
@@ -35,6 +36,7 @@ $rss-color: #ff6600;
 
 .img-wrap-right {
   float: right;
+  display: inline !important;
   margin-left: 25px;
   margin-bottom: 15px;
   max-width: 60%;

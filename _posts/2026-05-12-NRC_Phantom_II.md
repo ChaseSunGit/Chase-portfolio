@@ -18,9 +18,9 @@ Methane is a highly potent greenhouse gas that has been historically poorly meas
 The physically assembled sensor with slightly extended formfactor but identicial electronics and optical design. The fully assembled sensor weighs less than 1kg and measures at a sensitivity less than 1 parts-per-billion, making it easily deployale on a UAV like the Matrice 300.
 
 ## Upgrade From Previous Desigm
-![PhantomII Physical package]({{ site.baseurl }}/assets/img/PhantomII/NRC_Physical.jpg){: .img-wrap-right}
+![PhantomII Physical package]({{ site.baseurl }}/assets/img/PhantomII/NRC_2sensor_Ontop.jpg){: .img-wrap-right}
 
-
+Two versions of the sensor, the open cell version Phantom II (right) and close cell version Chameleon (left) sitting on top of the previous NRC methane sensor. The weight was reduced from 25KG to 3KG for the closed cell sensor with no sacrifice in sensitivity due to highly custom electronics and embedded software.
 
 ## Deployment
 

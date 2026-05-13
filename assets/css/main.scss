@@ -26,20 +26,32 @@ $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
 
+/* 1. Default: Standard images in your posts */
+.post-content img {
+  display: block;      // Keeps them on their own line
+  margin: 30px auto;   // Centers them with spacing
+  max-width: 100%;     // Allows them to be full-width (up to 1000px)
+  height: auto;
+}
+
+/* 2. Override: Only for images with the wrap classes */
+.post-content img.img-wrap-left, 
+.post-content img.img-wrap-right {
+  display: inline-block; // Allows text to sit next to it
+  max-width: 45%;        // Prevents it from taking the full 1000px
+  margin: 0;             // Removes the "centering" margin
+}
+
 .img-wrap-left {
   float: left;
-  display: inline !important;
-  margin-right: 25px;
-  margin-bottom: 15px;
-  max-width: 60%;
+  margin-right: 25px !important;
+  margin-bottom: 15px !important;
 }
 
 .img-wrap-right {
   float: right;
-  display: inline !important;
-  margin-left: 25px;
-  margin-bottom: 15px;
-  max-width: 60%;
+  margin-left: 25px !important;
+  margin-bottom: 15px !important;
 }
 
 // Clearfix to prevent layout collapse
@@ -58,5 +70,7 @@ $rss-color: #ff6600;
     max-width: 100%;
   }
 }
+
+
 
 @import "-sections-dir";

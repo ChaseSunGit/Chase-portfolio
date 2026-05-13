@@ -34,6 +34,24 @@ $rss-color: #ff6600;
   height: auto;
 }
 
+.img-breakout {
+  display: block;
+  margin: 30px -50px; /* Vertically 30px, Horizontally -50px */
+  max-width: none;     /* Allows the image to exceed the 1000px limit */
+  width: calc(100% + 100px); /* Adjust based on the negative margin */
+  height: auto;
+}
+
+/* Mobile Fix: Prevent breaking the page on small screens */
+@media (max-width: 1100px) {
+  .img-breakout {
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
 /* 2. Override: Only for images with the wrap classes */
 .post-content img.img-wrap-left, 
 .post-content img.img-wrap-right {

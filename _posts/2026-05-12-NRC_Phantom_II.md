@@ -12,7 +12,7 @@ Methane is a highly potent greenhouse gas that has been historically poorly meas
 ## Mechanical, Electrical, and Optical Design
 ![PhantomII Design Diagram]({{ site.baseurl }}/assets/img/PhantomII/NRC_Design_Diagram.jpg){: width="1000"}
 
-
+![PhantomII Design Diagram]({{ site.baseurl }}/assets/img/PhantomII/NRC_Design_Diagram.jpg){: width="400"}
 ## Physical Assembly
 ![PhantomII Physical package]({{ site.baseurl }}/assets/img/PhantomII/NRC_Physical.jpg)
 

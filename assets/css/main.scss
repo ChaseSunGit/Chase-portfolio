@@ -26,4 +26,35 @@ $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
 
+.img-wrap-left {
+  float: left;
+  margin-right: 25px;
+  margin-bottom: 15px;
+  max-width: 60%;
+}
+
+.img-wrap-right {
+  float: right;
+  margin-left: 25px;
+  margin-bottom: 15px;
+  max-width: 60%;
+}
+
+// Clearfix to prevent layout collapse
+.post-content::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+// Mobile fix: Stop wrapping on small screens
+@media (max-width: 600px) {
+  .img-wrap-left, .img-wrap-right {
+    float: none;
+    display: block;
+    margin: 0 auto 20px;
+    max-width: 100%;
+  }
+}
+
 @import "-sections-dir";

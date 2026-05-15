@@ -56,7 +56,7 @@ $rss-color: #ff6600;
 .post-content img.img-wrap-left, 
 .post-content img.img-wrap-right {
   display: inline-block; // Allows text to sit next to it
-  max-width: 45%;        // Prevents it from taking the full 1000px
+  max-width: 65%;        // Prevents it from taking the full 1000px
   margin: 0;             // Removes the "centering" margin
 }
 
@@ -89,6 +89,12 @@ $rss-color: #ff6600;
   }
 }
 
-
+.post-content h1, 
+.post-content h2, 
+.post-content h3, 
+.post-content h4 {
+  clear: both;
+  padding-top: 10px; /* Optional: adds a little breathing room */
+}
 
 @import "-sections-dir";

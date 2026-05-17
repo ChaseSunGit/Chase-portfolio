@@ -1,10 +1,13 @@
 .featured-post {
-  width: 800px;  /* Fixed width */
-  height: 300px; /* Matching height for a perfect square */
+  width: 100%;             /* Fills whatever space it's given up to its max */
+  max-width: 1000px;       /* Caps it at your desired desktop size */
+  height: auto;            /* Unlocks the hardcoded 300px height */
+  aspect-ratio: 10 / 3;    /* Keeps a perfect 10:3 box geometry */
+  
   margin: 15px auto;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: cover;  
   position: relative;
 }
 .featured-post h2 {

@@ -4,7 +4,7 @@ title: "GT Miniforklift - a hinge free, under-actuated cable-drvien exoskeleton"
 author: "Chase Sun"
 categories: wearable-robotics
 tags: [cad,controls,embedded,mechatronics]
-image: MS5K_Teaser.jpg
+image: EPIC_Title.jpg
 ---
 
 Workplace injuries are unfortunately common place for high-intensity manual labor workers in the US, especially in environments where heavy duty equipment cannot be used. Exoskeletons have been used to increase the work capacity and reduce injury for the user in this application, but typical designs only target single joints and often incorporate rigid hinges which impede natural motion. As a master's student in the EPIC lab at Georgia Tech, I am working to design a multi-jointed, completely hinge free exoskeleton to reduce knee & back injuries for manual laborers.

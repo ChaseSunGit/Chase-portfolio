@@ -64,6 +64,10 @@
     width: calc(100% - 20px) !important;
     height: 0 !important;                  /* Collapse the native height */
     padding-bottom: 30% !important;        /* Creates a strict 10:3 responsive box */
+    
+    /* ADD THIS LINE BELOW */
+    background-size: 100% 100% !important; /* Forces the image to squeeze perfectly into the 10:3 box */
+    
     margin: 10px auto !important;
   }
 }

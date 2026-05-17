@@ -55,3 +55,12 @@
 .pagination-active:hover {
   background-color: #e0e0e0;
 }
+
+@media (max-width: 600px) {
+  .featured-post {
+    width: calc(100% - 20px) !important;
+    height: 0 !important;                  /* Collapse the native height */
+    padding-bottom: 30% !important;        /* Creates a strict 10:3 responsive box */
+    margin: 10px auto !important;
+  }
+}

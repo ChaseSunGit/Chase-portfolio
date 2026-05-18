@@ -12,18 +12,18 @@ Methane is a highly potent greenhouse gas that has been historically poorly meas
 ## Mechanical, Electrical, and Optical Design
 ![PhantomII Design Diagram]({{ site.baseurl }}/assets/img/PhantomII/NRC_Design_Diagram.jpg){: .img-breakout}
 
-## Physical Assembly
 ![PhantomII Physical package]({{ site.baseurl }}/assets/img/PhantomII/NRC_Physical.jpg){: .img-wrap-left}
-The physically assembled sensor with slightly extended formfactor but identicial electronics and optical design. The fully assembled sensor weighs less than 1kg and measures at a sensitivity less than 1 parts-per-billion, making it easily deployale on mid-sized commerical UAVs.
+## Physical Assembly
+The physically assembled sensor with slightly extended formfactor but identicial electronics and optical design. The fully assembled sensor weighs __less than 1kg__ and measures at a sensitivity __less than 1 parts-per-billion__, making it easily deployale on mid-sized commerical UAVs.
 
-## Upgrade From Previous Desigm
 ![PhantomII Size comparison]({{ site.baseurl }}/assets/img/PhantomII/NRC_2sensor_Ontop.jpg){: .img-wrap-right}
-Two versions of the sensor, the open cell version Phantom II (right) and close cell version Chameleon (left) sitting on top of the previous NRC methane sensor. The weight was reduced from 25KG to 3KG for the closed cell sensor with no sacrifice in sensitivity due to highly custom electronics and embedded software.
+## Upgrade From Previous Design
+Two versions of the sensor, the open cell version Phantom II (right) and close cell version Chameleon (left) sitting on top of the previous NRC methane sensor. The weight was reduced from __25KG__ to __3KG__ for the closed cell sensor with no sacrifice in sensitivity due to highly custom electronics and embedded software.
 
-## Deployment
 ![PhantomII Deployment]({{ site.baseurl }}/assets/img/PhantomII/NRC_Deployment.jpg){: .img-wrap-left}
+## Deployment
 The device has been deployed across Canada including near oil & gas facilities in Northern Alberta and the Arctic coast in collaboration with Geological Survey Canada and Envornmental & Climate Change Canada to quantify total methane emissions in the country. The sensor seen here is mounted on a DJI Matrice 300 drone as it is prepared to take measurements.
 
-## Results
 ![PhantomII Deployment]({{ site.baseurl }}/assets/img/PhantomII/NRC_Results.jpg){: .img-wrap-right}
+## Results
 This is the result of a single collection done by the sensor mounted on an UAV measuring methane emissions in the Mackenzie Delta region of Northern Canada. The heatmap is the result of a fusion between GPS data, ambient conditions, and concentration measurement. Higher concentrations are shown in green around the slump site.

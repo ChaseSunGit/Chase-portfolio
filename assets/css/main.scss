@@ -93,10 +93,12 @@ $rss-color: #ff6600;
 .post-content h2, 
 .post-content h3, 
 .post-content h4 {
+  clear: both !important;          /* Forces the heading below wrapped images */
   padding-bottom: 0.3em;
-  border-bottom: 2px solid #323232; /* GitHub's exact border color */
+  border-bottom: 1px solid #525252; /* GitHub underline */
   margin-top: 24px;
   margin-bottom: 16px;
+  display: block;                  /* Ensures the block spans the full width */
 }
 
 @import "-sections-dir";

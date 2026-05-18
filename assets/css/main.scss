@@ -26,6 +26,21 @@ $medium-color: #00AB6C;
 $codepen-color: black;
 $rss-color: #ff6600;
 
+.post-content article p {
+  text-align: justify;
+  text-justify: inter-word;
+  
+  /* Enables clean word-breaking to prevent huge white gaps */
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
+
+.post-content h1, .post-content h2, .post-content h3, .post-content h4,
+.post-content ul, .post-content ol, .post-content pre, .post-content code {
+  text-align: left;
+}
+
 /* 1. Default: Standard images in your posts */
 .post-content img {
   display: block;      // Keeps them on their own line

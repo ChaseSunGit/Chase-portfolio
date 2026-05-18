@@ -3,7 +3,7 @@ layout: post
 title: "GT Miniforklift - a hinge free, under-actuated cable-drvien exoskeleton"
 author: "Chase Sun"
 categories: wearable-robotics
-tags: [cad,controls,embedded,mechatronics]
+tags: [cad,controls,embedded,mechatronics,wearable]
 image: EPIC_Title.jpg
 ---
 

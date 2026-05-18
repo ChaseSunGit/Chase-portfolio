@@ -13,7 +13,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 title:		           "Portfolio | Chase Sun"
 description:	       "A Portfolio of my mechanical, eletrical, and optical designs and prototypes"
 author:              "Chase Sun"
-custom_header_text:  "Portfolio | Home"
+custom_header_text:  "Chase's Portfolio | Home"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

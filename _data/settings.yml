@@ -10,8 +10,8 @@ menu:
 - {name: 'Electronics & Optics', url: 'electronics-optics'}
 - {name: 'Wearable robotics',    url: 'wearable-robotics'}
 - {name: 'CAD & CAE',            url: 'cad-cae'}
-- {name: 'About',                url: 'About'}
-- {name: 'Contact',              url: 'Contact'}
+- {name: 'About',                url: 'about/About_Me/'}
+- {name: 'Resume',              url: 'resume'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 #social:

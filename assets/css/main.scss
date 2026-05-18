@@ -93,8 +93,10 @@ $rss-color: #ff6600;
 .post-content h2, 
 .post-content h3, 
 .post-content h4 {
-  clear: both;
-  padding-top: 10px; /* Optional: adds a little breathing room */
+  padding-bottom: 0.3em;
+  border-bottom: 2px solid #323232; /* GitHub's exact border color */
+  margin-top: 24px;
+  margin-bottom: 16px;
 }
 
 @import "-sections-dir";

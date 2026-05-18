@@ -29,7 +29,7 @@ The device has been deployed across Canada including near oil & gas facilities i
 This is the result of a single collection done by the sensor mounted on an UAV measuring methane emissions in the Mackenzie Delta region of Northern Canada. The heatmap is the result of a fusion between GPS data, ambient conditions, and concentration measurement. Higher concentrations are shown in green around the slump site.
 
 ## Associated Publications
-M. Beattie, __C. Sun__, R. MacLeod, N. Sabourin, P. Morse, J. Corbin, J. Oliaee,__ “_Ultra-Lightweight Mid-IR Methane Sensor for UAV-based measurements_”, Journal of Optical Express, Submitted for review
+M. Beattie, __C. Sun__, R. MacLeod, N. Sabourin, P. Morse, J. Corbin, J. Oliaee, “_Ultra-Lightweight Mid-IR Methane Sensor for UAV-based measurements_”, Journal of Optical Express, Submitted for review
 
 J. Oliaee, R. MacLeod, __C. Sun__, M. Beattie, S. Dallimore, P. Morse, “_Measurement of natural methane emissions in the western Canadian arctic using an ultra-lightweight laser spectroscopic sensor aboard a small UAV_”, CabCH4 symposium, Ottawa, Canada, May 2024
 

@@ -25,5 +25,5 @@ Since the exoskeleton is actuated by soft paracord, the controller must be adapt
  
  All 3 levels work in series to allow the exoskeleton to near instantanously output desired torque on the assisted joints.
 
- ## CAD Render
+## CAD Render
  ![Miniforklift CAD]({{ site.baseurl }}/assets/img/MF3K/EPIC_CAD.jpg){: .img-breakout}

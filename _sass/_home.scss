@@ -62,11 +62,12 @@
 @media (max-width: 600px) {
   .featured-post {
     width: calc(100% - 20px) !important;
-    height: 0 !important;                  /* Collapse the native height */
-    padding-bottom: 30% !important;        /* Creates a strict 10:3 responsive box */
+    height: 0 !important;                  
+    padding-bottom: 30% !important;        
     
-    /* ADD THIS LINE BELOW */
-    background-size: 100% 100% !important; /* Forces the image to squeeze perfectly into the 10:3 box */
+    /* Change this line */
+    background-size: contain !important; /* Letterboxes the image safely if the box math is slightly off */
+    background-position: center !important; 
     
     margin: 10px auto !important;
   }

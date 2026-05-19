@@ -7,14 +7,14 @@ tags: [embedded,cad,optics,mechatronics,sensing]
 image: NRC_Title.jpg
 ---
 
-Methane is a highly potent greenhouse gas that has been historically poorly measured. There is an increasing demand for portable, sensitive, and cost-effective instruments to better understand the emission of methane and its effect on the changing climate. As a mechantronics engineer at the National Research Council (NRC) between 2021 and 2024, I developed a laser-based methane sensor that allows climate scientists to accuately measure methane emissions with an ultra light-weight, UAV deployable package.
+Methane is a highly potent greenhouse gas that has been historically poorly measured. There is an increasing demand for portable, sensitive, and cost-effective instruments to better understand the emission of methane and its effect on the changing climate. As a mechatronics engineer at the National Research Council (NRC) between 2021 and 2024, I developed a laser-based methane sensor that allows climate scientists to accurately measure methane emissions with an ultra-light-weight, UAV deployable package.
 
 ## Mechanical, Electrical, and Optical Design
 ![PhantomII Design Diagram]({{ site.baseurl }}/assets/img/PhantomII/NRC_Design_Diagram.jpg){: .img-breakout}
 
 ## Physical Assembly
 ![PhantomII Physical package]({{ site.baseurl }}/assets/img/PhantomII/NRC_Physical.jpg){: .img-wrap-left}
-The physically assembled sensor with slightly extended formfactor but identicial electronics and optical design. The fully assembled sensor weighs __less than 1kg__ and measures at a sensitivity __less than 1 parts-per-billion__, making it easily deployale on mid-sized commerical UAVs.
+The physically assembled sensor with slightly extended formfactor but identical electronics and optical design. The fully assembled sensor weighs __less than 1kg__ and measures at a sensitivity __less than 1 parts-per-billion__, making it easily deployable on mid-sized commercial UAVs.
 
 ## Upgrade From Previous Design
 ![PhantomII Size comparison]({{ site.baseurl }}/assets/img/PhantomII/NRC_2sensor_Ontop.jpg){: .img-wrap-right}
@@ -22,7 +22,7 @@ Two versions of the sensor, the open cell version Phantom II (right) and close c
 
 ## Deployment
 ![PhantomII Deployment]({{ site.baseurl }}/assets/img/PhantomII/NRC_Deployment.jpg){: .img-wrap-left}
-The device has been deployed across Canada including near oil & gas facilities in Northern Alberta and the Arctic coast in collaboration with Geological Survey Canada and Envornmental & Climate Change Canada to quantify total methane emissions in the country. The sensor seen here is mounted on a DJI Matrice 300 drone as it is prepared to take measurements.
+The device has been deployed across Canada including near oil & gas facilities in Northern Alberta and the Arctic coast in collaboration with Geological Survey Canada and Environmental & Climate Change Canada to quantify total methane emissions in the country. The sensor seen here is mounted on a DJI Matrice 300 drone as it is prepared to take measurements.
 
 ## Results
 ![PhantomII Deployment]({{ site.baseurl }}/assets/img/PhantomII/NRC_Results.jpg){: .img-wrap-right}

@@ -14,7 +14,7 @@ Methane is a highly potent greenhouse gas that has been historically poorly meas
 
 ## Physical Assembly
 ![PhantomII Physical package]({{ site.baseurl }}/assets/img/PhantomII/NRC_Physical.jpg){: .img-wrap-left}
-The physically assembled sensor with slightly extended formfactor but identical electronics and optical design. The fully assembled sensor weighs __less than 1kg__ and measures at a sensitivity __less than 1 parts-per-billion__, making it easily deployable on mid-sized commercial UAVs.
+The physically assembled sensor with slightly extended form factor but identical electronics and optical design. The fully assembled sensor weighs __less than 1kg__ and measures at a sensitivity __less than 1 parts-per-billion__, making it easily deployable on mid-sized commercial UAVs.
 
 ## Upgrade From Previous Design
 ![PhantomII Size comparison]({{ site.baseurl }}/assets/img/PhantomII/NRC_2sensor_Ontop.jpg){: .img-wrap-right}
